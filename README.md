@@ -1,6 +1,10 @@
 # Shopify Landing Page 
 
+[Checkout Deployed Page](https://shopify-landing-page-amanksingh99.netlify.app/)
+
 ![Best Ecommerce Platform in India 2022-08-28 03-54-14](https://user-images.githubusercontent.com/40262320/187050382-7e58b64c-833b-4ab8-a6b7-cac3031c64a7.png)
+
+
 
 ## 👨🏻‍💻 Tech Used
 
